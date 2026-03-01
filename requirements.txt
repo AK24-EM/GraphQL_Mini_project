@@ -1,0 +1,6 @@
+flask==3.0.0
+graphene==3.4.3
+graphene-mongo==0.4.5
+mongoengine==0.27.0
+pymongo==4.6.3
+requests==2.31.0
